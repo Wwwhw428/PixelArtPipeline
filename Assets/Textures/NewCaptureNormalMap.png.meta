@@ -1,189 +1,12 @@
 fileFormatVersion: 2
-guid: 75f775848f1f5244dadd1ff14f5522f8
+guid: e2979eddd69b2f942884434e0e02ba17
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: NewAnimationCaptureAtlas_0
-  - first:
-      213: 21300002
-    second: NewAnimationCaptureAtlas_1
-  - first:
-      213: 21300004
-    second: NewAnimationCaptureAtlas_2
-  - first:
-      213: 21300006
-    second: NewAnimationCaptureAtlas_3
-  - first:
-      213: 21300008
-    second: NewAnimationCaptureAtlas_4
-  - first:
-      213: 21300010
-    second: NewAnimationCaptureAtlas_5
-  - first:
-      213: 21300012
-    second: NewAnimationCaptureAtlas_6
-  - first:
-      213: 21300014
-    second: NewAnimationCaptureAtlas_7
-  - first:
-      213: 21300016
-    second: NewAnimationCaptureAtlas_8
-  - first:
-      213: 21300018
-    second: NewAnimationCaptureAtlas_9
-  - first:
-      213: 21300020
-    second: NewAnimationCaptureAtlas_10
-  - first:
-      213: 21300022
-    second: NewAnimationCaptureAtlas_11
-  - first:
-      213: 21300024
-    second: NewAnimationCaptureAtlas_12
-  - first:
-      213: 21300026
-    second: NewAnimationCaptureAtlas_13
-  - first:
-      213: 21300028
-    second: NewAnimationCaptureAtlas_14
-  - first:
-      213: 21300030
-    second: NewAnimationCaptureAtlas_15
-  - first:
-      213: 21300032
-    second: NewAnimationCaptureAtlas_16
-  - first:
-      213: 21300034
-    second: NewAnimationCaptureAtlas_17
-  - first:
-      213: 21300036
-    second: NewAnimationCaptureAtlas_18
-  - first:
-      213: 21300038
-    second: NewAnimationCaptureAtlas_19
-  - first:
-      213: 21300040
-    second: NewAnimationCaptureAtlas_20
-  - first:
-      213: 21300042
-    second: NewAnimationCaptureAtlas_21
-  - first:
-      213: 21300044
-    second: NewAnimationCaptureAtlas_22
-  - first:
-      213: 21300046
-    second: NewAnimationCaptureAtlas_23
-  - first:
-      213: 21300048
-    second: NewAnimationCaptureAtlas_24
-  - first:
-      213: 21300050
-    second: NewAnimationCaptureAtlas_25
-  - first:
-      213: 21300052
-    second: NewAnimationCaptureAtlas_26
-  - first:
-      213: 21300054
-    second: NewAnimationCaptureAtlas_27
-  - first:
-      213: 21300056
-    second: NewAnimationCaptureAtlas_28
-  - first:
-      213: 21300058
-    second: NewAnimationCaptureAtlas_29
-  - first:
-      213: 21300060
-    second: NewAnimationCaptureAtlas_30
-  - first:
-      213: 21300062
-    second: NewAnimationCaptureAtlas_31
-  - first:
-      213: 21300064
-    second: NewAnimationCaptureAtlas_32
-  - first:
-      213: 21300066
-    second: NewAnimationCaptureAtlas_33
-  - first:
-      213: 21300068
-    second: NewAnimationCaptureAtlas_34
-  - first:
-      213: 21300070
-    second: NewAnimationCaptureAtlas_35
-  - first:
-      213: 21300072
-    second: NewAnimationCaptureAtlas_36
-  - first:
-      213: 21300074
-    second: NewAnimationCaptureAtlas_37
-  - first:
-      213: 21300076
-    second: NewAnimationCaptureAtlas_38
-  - first:
-      213: 21300078
-    second: NewAnimationCaptureAtlas_39
-  - first:
-      213: 21300080
-    second: NewAnimationCaptureAtlas_40
-  - first:
-      213: 21300082
-    second: NewAnimationCaptureAtlas_41
-  - first:
-      213: 21300084
-    second: NewAnimationCaptureAtlas_42
-  - first:
-      213: 21300086
-    second: NewAnimationCaptureAtlas_43
-  - first:
-      213: 21300088
-    second: NewAnimationCaptureAtlas_44
-  - first:
-      213: 21300090
-    second: NewAnimationCaptureAtlas_45
-  - first:
-      213: 21300092
-    second: NewAnimationCaptureAtlas_46
-  - first:
-      213: 21300094
-    second: NewAnimationCaptureAtlas_47
-  - first:
-      213: 21300096
-    second: NewAnimationCaptureAtlas_48
-  - first:
-      213: 21300098
-    second: NewAnimationCaptureAtlas_49
-  - first:
-      213: 21300100
-    second: NewAnimationCaptureAtlas_50
-  - first:
-      213: 21300102
-    second: NewAnimationCaptureAtlas_51
-  - first:
-      213: 21300104
-    second: NewAnimationCaptureAtlas_52
-  - first:
-      213: 21300106
-    second: NewAnimationCaptureAtlas_53
-  - first:
-      213: 21300108
-    second: NewAnimationCaptureAtlas_54
-  - first:
-      213: 21300110
-    second: NewAnimationCaptureAtlas_55
-  - first:
-      213: 21300112
-    second: NewAnimationCaptureAtlas_56
-  - first:
-      213: 21300114
-    second: NewAnimationCaptureAtlas_57
-  - first:
-      213: 21300116
-    second: NewAnimationCaptureAtlas_58
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -210,25 +33,25 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
+    wrapU: 0
+    wrapV: 0
     wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 0
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
@@ -239,62 +62,239 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
-  cookieLightType: 1
+  applyGammaDecoding: 0
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_0
+      name: NewCaptureNormalMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ea3cde5afca9f478136f1c80eaf2c8
+      internalID: 695969046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd480071a1dcdb4daa222c8f10a6b2b
+      internalID: 689142726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ce52b337704b04e8fdb9555794b620
+      internalID: -676683625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0e8e1437964840b13516cf5b04db7
+      internalID: 928455676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed66299490ed53042874db9763fa549a
+      internalID: 1441275323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fd00eac16b7ce4083fcbaea098d615
+      internalID: -948665655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3502960ec57e5b4fb6bc21eb0a700b0
+      internalID: -1223712854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6257f570cf4116d4ba2d3fa1b556a266
+      internalID: 1468151190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8acbdf955549b4991b5bf2099351d0
+      internalID: -985553268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_9
       rect:
         serializedVersion: 2
         x: 0
@@ -308,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9477eb80fedffc4b8e5663e4b568940
-      internalID: 21300000
+      spriteID: 1c634e6548784d541a0d4edfc63707d6
+      internalID: -1483445400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_1
+      name: NewCaptureNormalMap_10
       rect:
         serializedVersion: 2
         x: 100
@@ -329,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b8885ded8e2d184ca3ec7823499d1e1
-      internalID: 21300002
+      spriteID: 3c5baa1e7d1337f479c45b45e1869155
+      internalID: -141465179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_2
+      name: NewCaptureNormalMap_11
       rect:
         serializedVersion: 2
         x: 200
@@ -350,14 +350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ec2fded17f6298409a15c47f8b2ba2f
-      internalID: 21300004
+      spriteID: 1b871396ce1466f4bbea34f87dad9055
+      internalID: 703844857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_3
+      name: NewCaptureNormalMap_12
       rect:
         serializedVersion: 2
         x: 300
@@ -371,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7d1712d40b807b4ab9f98d0ce17b3a4
-      internalID: 21300006
+      spriteID: c45dfabe53aff00479f08c965da7e93b
+      internalID: -1538251761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_4
+      name: NewCaptureNormalMap_13
       rect:
         serializedVersion: 2
         x: 400
@@ -392,14 +392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95cdd20c89606424ca0fadc542b3360d
-      internalID: 21300008
+      spriteID: d1a02dab78dc6c649bd2c9fa6d967956
+      internalID: -2039907067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_5
+      name: NewCaptureNormalMap_14
       rect:
         serializedVersion: 2
         x: 500
@@ -413,14 +413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d825df049a6cda4b9e67d463bcf14a0
-      internalID: 21300010
+      spriteID: 9decbe25cb4bee0409413970321ad92b
+      internalID: 1749260498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_6
+      name: NewCaptureNormalMap_15
       rect:
         serializedVersion: 2
         x: 600
@@ -434,14 +434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4e1ea0427dbaf8488cd6076c6e9dae1
-      internalID: 21300012
+      spriteID: 049b9d254a7237249b3e0ae0ede46b2d
+      internalID: -464630249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_7
+      name: NewCaptureNormalMap_16
       rect:
         serializedVersion: 2
         x: 700
@@ -455,14 +455,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64452e99fc22fd543864d57a0031eb7f
-      internalID: 21300014
+      spriteID: 80d78b46a017de448b29908cce12778a
+      internalID: 1305279158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_8
+      name: NewCaptureNormalMap_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06deaea0c131e2d43add7d20d25891e4
+      internalID: 395844622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_18
       rect:
         serializedVersion: 2
         x: 0
@@ -476,14 +497,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b148517cd99eaa47bc09795b393a434
-      internalID: 21300016
+      spriteID: e8dff254aac34644a9b4a73a512002d9
+      internalID: -1836515861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_9
+      name: NewCaptureNormalMap_19
       rect:
         serializedVersion: 2
         x: 100
@@ -497,14 +518,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6074e151857cb0a44861795bf9524418
-      internalID: 21300018
+      spriteID: 347f94b84e142e24c8d81662de319ad4
+      internalID: -1293028542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_10
+      name: NewCaptureNormalMap_20
       rect:
         serializedVersion: 2
         x: 200
@@ -518,14 +539,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1803922c6c1e54242b3821894fd68823
-      internalID: 21300020
+      spriteID: bf18192f6d3bfce4186bb6c17e1ad5d4
+      internalID: 1567705379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_11
+      name: NewCaptureNormalMap_21
       rect:
         serializedVersion: 2
         x: 300
@@ -539,14 +560,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9d47b4b0da3ea749bb52b18d6c2eca0
-      internalID: 21300022
+      spriteID: 66d82cfcd150b884da230abeccd700c8
+      internalID: -1339227458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_12
+      name: NewCaptureNormalMap_22
       rect:
         serializedVersion: 2
         x: 400
@@ -560,14 +581,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 230fe19945e85ae478636a6c35c2bafe
-      internalID: 21300024
+      spriteID: 43476110c7f9e4947b21d21b130ce6ed
+      internalID: 1864719794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_13
+      name: NewCaptureNormalMap_23
       rect:
         serializedVersion: 2
         x: 500
@@ -581,14 +602,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 529798c9efeae8247b205ac771975de6
-      internalID: 21300026
+      spriteID: f997e53c447310944ad26a0b5df50046
+      internalID: -414561578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_14
+      name: NewCaptureNormalMap_24
       rect:
         serializedVersion: 2
         x: 600
@@ -602,14 +623,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f57f5683aa4a02d4d8a47940498f43b8
-      internalID: 21300028
+      spriteID: e87a695ce5774e74c8951d9a5c299ae2
+      internalID: -1721928399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_15
+      name: NewCaptureNormalMap_25
       rect:
         serializedVersion: 2
         x: 700
@@ -623,14 +644,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8abdb569e83f7b24191828021415eebd
-      internalID: 21300030
+      spriteID: b63e971c4582c3f4d8a40eda7208767d
+      internalID: -2033794067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_16
+      name: NewCaptureNormalMap_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca7aafef74f51a48a779ede521e0e7c
+      internalID: -829215138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_27
       rect:
         serializedVersion: 2
         x: 0
@@ -644,14 +686,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4df29f9d3023deb468ab68b101a7686b
-      internalID: 21300032
+      spriteID: 43dfcdc3ba9f2af46a1ca28d3b41aaef
+      internalID: -671349358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_17
+      name: NewCaptureNormalMap_28
       rect:
         serializedVersion: 2
         x: 100
@@ -665,14 +707,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c516892e10d7a044aa23fd8da9025950
-      internalID: 21300034
+      spriteID: 981378d99e73b7743bc69c5ec1273d08
+      internalID: -618522545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_18
+      name: NewCaptureNormalMap_29
       rect:
         serializedVersion: 2
         x: 200
@@ -686,14 +728,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a80b4f02b4399624cabc620b5d366c7c
-      internalID: 21300036
+      spriteID: d98a54e23e5a7d24e8a1315ad48c4c31
+      internalID: 1865166049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_19
+      name: NewCaptureNormalMap_30
       rect:
         serializedVersion: 2
         x: 300
@@ -707,14 +749,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b07b42c84f723a47ad6f5c6875227ef
-      internalID: 21300038
+      spriteID: e7405f231a51f85439f63afb947876f6
+      internalID: -762782175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_20
+      name: NewCaptureNormalMap_31
       rect:
         serializedVersion: 2
         x: 400
@@ -728,14 +770,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 531e122068f95544080af6ca528b814e
-      internalID: 21300040
+      spriteID: af41561b5c88a5c4999ea09b58420c10
+      internalID: -643292817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_21
+      name: NewCaptureNormalMap_32
       rect:
         serializedVersion: 2
         x: 500
@@ -749,14 +791,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2396f918b2766584da07109f311c70c7
-      internalID: 21300042
+      spriteID: 65e2363f4761d4344a83bcad2da9c0e3
+      internalID: 1291723548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_22
+      name: NewCaptureNormalMap_33
       rect:
         serializedVersion: 2
         x: 600
@@ -770,14 +812,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bd73cda6af7737458873dd0c5bf185e
-      internalID: 21300044
+      spriteID: 6374abb62067f2f4a9632c939e607d0f
+      internalID: 902770167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_23
+      name: NewCaptureNormalMap_34
       rect:
         serializedVersion: 2
         x: 700
@@ -791,14 +833,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a5383aaaf62bed48be01574f60396cb
-      internalID: 21300046
+      spriteID: 09dd10b6c78094446a75223f930d3f92
+      internalID: 1346536939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_24
+      name: NewCaptureNormalMap_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe648be5708a1b4dbdc6b3efd50c714
+      internalID: -657886179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_36
       rect:
         serializedVersion: 2
         x: 0
@@ -812,14 +875,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b242c4df0da0ad4087df8ecca739cc4
-      internalID: 21300048
+      spriteID: 1c7690a56d3a8464a9b186f53261a499
+      internalID: -1878915678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_25
+      name: NewCaptureNormalMap_37
       rect:
         serializedVersion: 2
         x: 100
@@ -833,14 +896,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54e174e6f80dd4b4b92032654f7c3f22
-      internalID: 21300050
+      spriteID: 3820a11a0d445ca4a8f5d5313a428f76
+      internalID: 1697201070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_26
+      name: NewCaptureNormalMap_38
       rect:
         serializedVersion: 2
         x: 200
@@ -854,14 +917,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c49038f8cdef055459cfe9f84737e2eb
-      internalID: 21300052
+      spriteID: 7865ca3f550b6234eaa7975eadb2a2c9
+      internalID: -206117662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_27
+      name: NewCaptureNormalMap_39
       rect:
         serializedVersion: 2
         x: 300
@@ -875,14 +938,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ca4dea5ce5d0bb44aed19850894a3cd
-      internalID: 21300054
+      spriteID: ab97595bad1807d48aa9b0a9d4934010
+      internalID: -784166163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_28
+      name: NewCaptureNormalMap_40
       rect:
         serializedVersion: 2
         x: 400
@@ -896,14 +959,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6f338adcfa22c142995427a6bac3543
-      internalID: 21300056
+      spriteID: 49a3c90afdd6dc443982f2d70a1201b0
+      internalID: 501114300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_29
+      name: NewCaptureNormalMap_41
       rect:
         serializedVersion: 2
         x: 500
@@ -917,14 +980,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9337deffd5bdf6243973e4989488bed4
-      internalID: 21300058
+      spriteID: 076ecfe848b07a94c9f8ede91a3ac2b8
+      internalID: 407526009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_30
+      name: NewCaptureNormalMap_42
       rect:
         serializedVersion: 2
         x: 600
@@ -938,14 +1001,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45ae355f1580e544c86a87f9d42cc5d7
-      internalID: 21300060
+      spriteID: d4c5c8b88923ba14684a4f9c9140f7a8
+      internalID: -1792713370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_31
+      name: NewCaptureNormalMap_43
       rect:
         serializedVersion: 2
         x: 700
@@ -959,14 +1022,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5912fded0dd520f4f9ae52c0e6211b5d
-      internalID: 21300062
+      spriteID: 98bcb1638c6fb604c856af04d1d1474b
+      internalID: -1541946612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_32
+      name: NewCaptureNormalMap_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4151f1a8ffeab141a117c8e4dde2bbd
+      internalID: -353854568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_45
       rect:
         serializedVersion: 2
         x: 0
@@ -980,14 +1064,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60c0f0758c06ac34a81a41a75136070f
-      internalID: 21300064
+      spriteID: 7cdb125ccf1b8304da53c832f2834bc0
+      internalID: -1879584719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_33
+      name: NewCaptureNormalMap_46
       rect:
         serializedVersion: 2
         x: 100
@@ -1001,14 +1085,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6759faa0e0f8d344ab6902579fec7e60
-      internalID: 21300066
+      spriteID: f25a411854a7cca4a851e3d441cabe27
+      internalID: 97715840
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_34
+      name: NewCaptureNormalMap_47
       rect:
         serializedVersion: 2
         x: 200
@@ -1022,14 +1106,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6143e468eb38774fa55a3c7a1363efc
-      internalID: 21300068
+      spriteID: 2ea2b6b65c70cfd479e647b3e66b7908
+      internalID: -337366726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_35
+      name: NewCaptureNormalMap_48
       rect:
         serializedVersion: 2
         x: 300
@@ -1043,14 +1127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a772cf91e8afe545987ed41c23fff87
-      internalID: 21300070
+      spriteID: 5a714d4ea043f5a4c98caf9d5a64ef2f
+      internalID: 291417202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_36
+      name: NewCaptureNormalMap_49
       rect:
         serializedVersion: 2
         x: 400
@@ -1064,14 +1148,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66dc93bfbc213cb48be2703b393194fa
-      internalID: 21300072
+      spriteID: b2489aaaf0247ad46a2c4055628bb1ae
+      internalID: 1904782824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_37
+      name: NewCaptureNormalMap_50
       rect:
         serializedVersion: 2
         x: 500
@@ -1085,14 +1169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc54f1d27d48d0a4199618c47b0e56f3
-      internalID: 21300074
+      spriteID: 52fd73d7fe55d584299995be72519283
+      internalID: 307430259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_38
+      name: NewCaptureNormalMap_51
       rect:
         serializedVersion: 2
         x: 600
@@ -1106,14 +1190,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56c316b6572a86e42b15dc3785642531
-      internalID: 21300076
+      spriteID: e56c7b4282714a44faa4d31a55f22e16
+      internalID: -1948271952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_39
+      name: NewCaptureNormalMap_52
       rect:
         serializedVersion: 2
         x: 700
@@ -1127,14 +1211,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec38937ced69c744f82eed4a004fb847
-      internalID: 21300078
+      spriteID: d2a94bf4d18ef03438959c9dda3d908c
+      internalID: 1850882998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_40
+      name: NewCaptureNormalMap_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e45e5dfd15ba4983afdaebe9b91b7
+      internalID: 802880682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_54
       rect:
         serializedVersion: 2
         x: 0
@@ -1148,14 +1253,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5ceaac2b9609634b800e8df5ffe9503
-      internalID: 21300080
+      spriteID: ea2f394fc47361f44837974500cd2349
+      internalID: -1153547682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_41
+      name: NewCaptureNormalMap_55
       rect:
         serializedVersion: 2
         x: 100
@@ -1169,14 +1274,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06a4d730aca880d4697378de8c172490
-      internalID: 21300082
+      spriteID: 19d4b3c23eba1c244868ead58cfd130d
+      internalID: -2086110990
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_42
+      name: NewCaptureNormalMap_56
       rect:
         serializedVersion: 2
         x: 200
@@ -1190,14 +1295,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c267e3c49f774524fbfbc2b2864d0220
-      internalID: 21300084
+      spriteID: de40857f472c7dc4abe865aa078a01f4
+      internalID: 1961211767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_43
+      name: NewCaptureNormalMap_57
       rect:
         serializedVersion: 2
         x: 300
@@ -1211,14 +1316,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3486f40c96a1bf4bbcf49cd313ffee8
-      internalID: 21300086
+      spriteID: fba90ee2d79dac9409961b0460e6ceb2
+      internalID: -1229581784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_44
+      name: NewCaptureNormalMap_58
       rect:
         serializedVersion: 2
         x: 400
@@ -1232,14 +1337,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7db9b92983797d4aad96982d64c41e5
-      internalID: 21300088
+      spriteID: 9508b5af3a88dc949844768f2194e8a8
+      internalID: -1636863959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_45
+      name: NewCaptureNormalMap_59
       rect:
         serializedVersion: 2
         x: 500
@@ -1253,14 +1358,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a616796a2cf94bc4e9bb64721f502d23
-      internalID: 21300090
+      spriteID: 7287b2eacde88444885abdeb54113073
+      internalID: -231653870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_46
+      name: NewCaptureNormalMap_60
       rect:
         serializedVersion: 2
         x: 600
@@ -1274,14 +1379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ea52975928165d458d4d7182160e713
-      internalID: 21300092
+      spriteID: 8fee9c4f3c4316b429acac0a7c61c4c2
+      internalID: -89123474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_47
+      name: NewCaptureNormalMap_61
       rect:
         serializedVersion: 2
         x: 700
@@ -1295,14 +1400,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2344d82c6e436ef4586bf7ab3e62a91a
-      internalID: 21300094
+      spriteID: ccf71c476fafaf2498a6fb5f960406a2
+      internalID: -1224700730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_48
+      name: NewCaptureNormalMap_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674af9a0a806cd546942d85150697de9
+      internalID: -323142705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_63
       rect:
         serializedVersion: 2
         x: 0
@@ -1316,14 +1442,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1c8dafdaf5a6324eb4f239bdf8f672e
-      internalID: 21300096
+      spriteID: eb394558eaeecce45842398e929c2fb8
+      internalID: -850738272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_49
+      name: NewCaptureNormalMap_64
       rect:
         serializedVersion: 2
         x: 100
@@ -1337,14 +1463,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d4c4e6ee925a5e4587c5cb26309806a
-      internalID: 21300098
+      spriteID: 06e0424201ff6a44ba96a2dd7c73eef6
+      internalID: 1179450264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_50
+      name: NewCaptureNormalMap_65
       rect:
         serializedVersion: 2
         x: 200
@@ -1358,14 +1484,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 020bc02554a5d8c43be12114c0873302
-      internalID: 21300100
+      spriteID: f4533739c3a3a6e4a84b609a12bb25cb
+      internalID: 1589911748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_51
+      name: NewCaptureNormalMap_66
       rect:
         serializedVersion: 2
         x: 300
@@ -1379,14 +1505,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a7a68d7874548645bbf8bd9dabab0cb
-      internalID: 21300102
+      spriteID: 9581cc03ca05f4d429de4067dd6cf14f
+      internalID: 1144163462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_52
+      name: NewCaptureNormalMap_67
       rect:
         serializedVersion: 2
         x: 400
@@ -1400,14 +1526,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42c01d986a5a2204d97e2e1103f15ef1
-      internalID: 21300104
+      spriteID: 4755ea720a42ddc4b92be839be99de50
+      internalID: 318269512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_53
+      name: NewCaptureNormalMap_68
       rect:
         serializedVersion: 2
         x: 500
@@ -1421,14 +1547,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c492fff924b3874588be0e2d3b6e0e7
-      internalID: 21300106
+      spriteID: aef0d410a930926469abca9b3d57f1ac
+      internalID: -1037267995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_54
+      name: NewCaptureNormalMap_69
       rect:
         serializedVersion: 2
         x: 600
@@ -1442,14 +1568,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed86dd5bbfda6ae4f843c5dac63d5b39
-      internalID: 21300108
+      spriteID: 8842d8bb0380b6b4d9c85c17ec0c75e1
+      internalID: -1482759057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_55
+      name: NewCaptureNormalMap_70
       rect:
         serializedVersion: 2
         x: 700
@@ -1463,14 +1589,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e92ebd075dbf6b840b214f441a496135
-      internalID: 21300110
+      spriteID: 304b46950883aaf428ebda46d4800954
+      internalID: 255100008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_56
+      name: NewCaptureNormalMap_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db57f9b351f49ae44b9bcf3754208c28
+      internalID: 334206541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_72
       rect:
         serializedVersion: 2
         x: 0
@@ -1484,14 +1631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0fd88fb02ea1c541846d1909774748f
-      internalID: 21300112
+      spriteID: 419ea3205fc69834a9796f99021dd91a
+      internalID: -1395261605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_57
+      name: NewCaptureNormalMap_73
       rect:
         serializedVersion: 2
         x: 100
@@ -1505,14 +1652,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c5bc94255a5d9b4386d805ec45be1c5
-      internalID: 21300114
+      spriteID: f2d1ef40f79b028408605396d33fd63c
+      internalID: -884303551
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NewAnimationCaptureAtlas_58
+      name: NewCaptureNormalMap_74
       rect:
         serializedVersion: 2
         x: 200
@@ -1526,8 +1673,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5bb6a4ac3b09f34ba768a4e924925cd
-      internalID: 21300116
+      spriteID: a8d7cb24425807b4984e66ff5f2b65ce
+      internalID: 1962689870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_75
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e98c5f3a1580b4eb098f059f35380b
+      internalID: 1280154242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa06aa8e4e251646b369bf91f973db7
+      internalID: 1871141670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659b6dfde58c6f64187a938428604a5d
+      internalID: 1991198607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_78
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859351755faeb1428e358112ad732c3
+      internalID: 1345558959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCaptureNormalMap_79
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeea3542983c8754aab38af195593b56
+      internalID: 2142757720
       vertices: []
       indices: 
       edges: []
@@ -1535,7 +1787,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 422098ef08331bf43b6f07f888ea055f
+    spriteID: eaa05d7db2b180e488a91dd8ff332d77
     internalID: 0
     vertices: []
     indices: 
@@ -1543,65 +1795,86 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      NewAnimationCaptureAtlas_18: 21300036
-      NewAnimationCaptureAtlas_8: 21300016
-      NewAnimationCaptureAtlas_40: 21300080
-      NewAnimationCaptureAtlas_57: 21300114
-      NewAnimationCaptureAtlas_52: 21300104
-      NewAnimationCaptureAtlas_5: 21300010
-      NewAnimationCaptureAtlas_56: 21300112
-      NewAnimationCaptureAtlas_6: 21300012
-      NewAnimationCaptureAtlas_9: 21300018
-      NewAnimationCaptureAtlas_2: 21300004
-      NewAnimationCaptureAtlas_36: 21300072
-      NewAnimationCaptureAtlas_37: 21300074
-      NewAnimationCaptureAtlas_43: 21300086
-      NewAnimationCaptureAtlas_50: 21300100
-      NewAnimationCaptureAtlas_0: 21300000
-      NewAnimationCaptureAtlas_42: 21300084
-      NewAnimationCaptureAtlas_22: 21300044
-      NewAnimationCaptureAtlas_10: 21300020
-      NewAnimationCaptureAtlas_17: 21300034
-      NewAnimationCaptureAtlas_31: 21300062
-      NewAnimationCaptureAtlas_53: 21300106
-      NewAnimationCaptureAtlas_39: 21300078
-      NewAnimationCaptureAtlas_51: 21300102
-      NewAnimationCaptureAtlas_33: 21300066
-      NewAnimationCaptureAtlas_24: 21300048
-      NewAnimationCaptureAtlas_15: 21300030
-      NewAnimationCaptureAtlas_48: 21300096
-      NewAnimationCaptureAtlas_44: 21300088
-      NewAnimationCaptureAtlas_32: 21300064
-      NewAnimationCaptureAtlas_20: 21300040
-      NewAnimationCaptureAtlas_45: 21300090
-      NewAnimationCaptureAtlas_4: 21300008
-      NewAnimationCaptureAtlas_29: 21300058
-      NewAnimationCaptureAtlas_11: 21300022
-      NewAnimationCaptureAtlas_1: 21300002
-      NewAnimationCaptureAtlas_3: 21300006
-      NewAnimationCaptureAtlas_21: 21300042
-      NewAnimationCaptureAtlas_30: 21300060
-      NewAnimationCaptureAtlas_23: 21300046
-      NewAnimationCaptureAtlas_35: 21300070
-      NewAnimationCaptureAtlas_46: 21300092
-      NewAnimationCaptureAtlas_55: 21300110
-      NewAnimationCaptureAtlas_26: 21300052
-      NewAnimationCaptureAtlas_14: 21300028
-      NewAnimationCaptureAtlas_16: 21300032
-      NewAnimationCaptureAtlas_49: 21300098
-      NewAnimationCaptureAtlas_27: 21300054
-      NewAnimationCaptureAtlas_19: 21300038
-      NewAnimationCaptureAtlas_47: 21300094
-      NewAnimationCaptureAtlas_41: 21300082
-      NewAnimationCaptureAtlas_54: 21300108
-      NewAnimationCaptureAtlas_12: 21300024
-      NewAnimationCaptureAtlas_25: 21300050
-      NewAnimationCaptureAtlas_38: 21300076
-      NewAnimationCaptureAtlas_13: 21300026
-      NewAnimationCaptureAtlas_28: 21300056
-      NewAnimationCaptureAtlas_34: 21300068
-      NewAnimationCaptureAtlas_58: 21300116
-      NewAnimationCaptureAtlas_7: 21300014
+      NewCaptureNormalMap_74: 1962689870
+      NewCaptureNormalMap_66: 1144163462
+      NewCaptureNormalMap_45: -1879584719
+      NewCaptureNormalMap_39: -784166163
+      NewCaptureNormalMap_67: 318269512
+      NewCaptureNormalMap_1: 689142726
+      NewCaptureNormalMap_56: 1961211767
+      NewCaptureNormalMap_20: 1567705379
+      NewCaptureNormalMap_37: 1697201070
+      NewCaptureNormalMap_48: 291417202
+      NewCaptureNormalMap_62: -323142705
+      NewCaptureNormalMap_2: -676683625
+      NewCaptureNormalMap_33: 902770167
+      NewCaptureNormalMap_40: 501114300
+      NewCaptureNormalMap_16: 1305279158
+      NewCaptureNormalMap_70: 255100008
+      NewCaptureNormalMap_12: -1538251761
+      NewCaptureNormalMap_72: -1395261605
+      NewCaptureNormalMap_61: -1224700730
+      NewCaptureNormalMap_15: -464630249
+      NewCaptureNormalMap_30: -762782175
+      NewCaptureNormalMap_0: 695969046
+      NewCaptureNormalMap_34: 1346536939
+      NewCaptureNormalMap_41: 407526009
+      NewCaptureNormalMap_42: -1792713370
+      NewCaptureNormalMap_60: -89123474
+      NewCaptureNormalMap_53: 802880682
+      NewCaptureNormalMap_38: -206117662
+      NewCaptureNormalMap_59: -231653870
+      NewCaptureNormalMap_19: -1293028542
+      NewCaptureNormalMap_21: -1339227458
+      NewCaptureNormalMap_18: -1836515861
+      NewCaptureNormalMap_3: 928455676
+      NewCaptureNormalMap_17: 395844622
+      NewCaptureNormalMap_77: 1991198607
+      NewCaptureNormalMap_54: -1153547682
+      NewCaptureNormalMap_35: -657886179
+      NewCaptureNormalMap_6: -1223712854
+      NewCaptureNormalMap_13: -2039907067
+      NewCaptureNormalMap_44: -353854568
+      NewCaptureNormalMap_58: -1636863959
+      NewCaptureNormalMap_8: -985553268
+      NewCaptureNormalMap_22: 1864719794
+      NewCaptureNormalMap_25: -2033794067
+      NewCaptureNormalMap_65: 1589911748
+      NewCaptureNormalMap_29: 1865166049
+      NewCaptureNormalMap_43: -1541946612
+      NewCaptureNormalMap_55: -2086110990
+      NewCaptureNormalMap_78: 1345558959
+      NewCaptureNormalMap_50: 307430259
+      NewCaptureNormalMap_10: -141465179
+      NewCaptureNormalMap_27: -671349358
+      NewCaptureNormalMap_11: 703844857
+      NewCaptureNormalMap_23: -414561578
+      NewCaptureNormalMap_36: -1878915678
+      NewCaptureNormalMap_63: -850738272
+      NewCaptureNormalMap_7: 1468151190
+      NewCaptureNormalMap_4: 1441275323
+      NewCaptureNormalMap_28: -618522545
+      NewCaptureNormalMap_52: 1850882998
+      NewCaptureNormalMap_68: -1037267995
+      NewCaptureNormalMap_32: 1291723548
+      NewCaptureNormalMap_14: 1749260498
+      NewCaptureNormalMap_64: 1179450264
+      NewCaptureNormalMap_73: -884303551
+      NewCaptureNormalMap_31: -643292817
+      NewCaptureNormalMap_49: 1904782824
+      NewCaptureNormalMap_51: -1948271952
+      NewCaptureNormalMap_71: 334206541
+      NewCaptureNormalMap_79: 2142757720
+      NewCaptureNormalMap_9: -1483445400
+      NewCaptureNormalMap_47: -337366726
+      NewCaptureNormalMap_46: 97715840
+      NewCaptureNormalMap_69: -1482759057
+      NewCaptureNormalMap_5: -948665655
+      NewCaptureNormalMap_24: -1721928399
+      NewCaptureNormalMap_76: 1871141670
+      NewCaptureNormalMap_26: -829215138
+      NewCaptureNormalMap_57: -1229581784
+      NewCaptureNormalMap_75: 1280154242
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
